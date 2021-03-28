@@ -1,5 +1,9 @@
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
+<br><br>
 <a href="https://www.youtube.com/channel/UC8l8MDmyR8R5_j69txePZgg"><img align="center" src="https://github.com/eticialima/eticialima/blob/main/bg.jpg"/></a>
-
+ 
 ### Olá 👋 Eu sou Leticia Lima.
  
 Uma estudante e apaixonada por desenvolver em python e web designer. Profissional da computação e freelance. Minha paixão é criar idéias e torná-las realidade com interfaces elegantes. Procuro inspiração no mundo tecnológico que me rodeia. Fique a vontade para conhecer meus projetos.
@@ -27,4 +31,6 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
 <p>📫 Como me encontrar: instagram @eticialima</p>
 <p>😄 Acesse meu site, tem mais coisas legais lá.</p>
 <p>⚡ Curiosidade: uma vez eu tentei burlar as moedinhas no jogo lol. </p>
+ 
+ 
  
