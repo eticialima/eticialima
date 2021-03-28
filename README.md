@@ -36,6 +36,8 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=eticialima&show_icons=true&hide_border=true">
 </p>
 <br><br>
+  
+<br><br>
 <p align="center">
 <a href="https://www.buymeacoffee.com/leticialima" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 </p>
