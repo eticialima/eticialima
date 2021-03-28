@@ -41,12 +41,18 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
 <p>📫 Como me encontrar: instagram @eticialima</p>
 <p>😄 Acesse meu site, tem mais coisas legais lá.</p>
 <p>⚡ Curiosidade: uma vez eu tentei burlar as moedinhas no jogo lol. </p>
-<br><br>
- 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=eticialima&show_icons=true&hide_border=true"> 
 <br><br> 
 <br><br>
 
+# GitHub Stats
+
+<a href="https://github.com/eticialima/eticialima">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Leticia Lima GitHub Stats" />
+</a>
+
+<a href="https://github.com/eticialima/eticialima">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eticialima&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Leticia Lima GitHub Stats" />
+</a>
 
 <p>
 <a href="https://www.buymeacoffee.com/leticialima" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
