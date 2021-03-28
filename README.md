@@ -57,7 +57,7 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Leticia Lima GitHub Stats" />
 </a> 
 <a href="https://github.com/eticialima/eticialima">
-  <img height="137px"align="right" src="https://github-readme-stats.vercel.app/api?username=eticialima&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" align="right" src="https://github-readme-stats.vercel.app/api?username=eticialima&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </a>
   
  
@@ -79,7 +79,7 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
 ### Veja Mais... ❤️ Tem alguns repositorios aqui com link demo!
 
 </div>
-<div>
+<div >
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
@@ -104,6 +104,10 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
 </div>
  
  
