@@ -53,8 +53,10 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
 <a href="https://github.com/eticialima/eticialima">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=eticialima&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Leticia Lima GitHub Stats" />
 </a>
-
+<br><br>
+<br><br>
+<br><br>
 <p>
-<a href="https://www.buymeacoffee.com/leticialima" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+<a  href="https://www.buymeacoffee.com/leticialima" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 </p>
  
