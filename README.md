@@ -45,12 +45,14 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
 
 ### Spotify Playing 🎧
 
-[<img align="left" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) 
-  
+[<img align="left" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" allow="encrypted-media" />](https://open.spotify.com/embed/album/5hE8uZvILZnE9P4zhQWvi9) 
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=eticialima&show_icons=true&hide_border=true"> 
 <br><br> 
 <br><br>
-<p align="center">
+
+
+<p>
 <a href="https://www.buymeacoffee.com/leticialima" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 </p>
  
