@@ -1,5 +1,4 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/eticialima/eticialima/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/eticialima/eticialima/actions)
+### Visitantes 
 ![](https://visitor-badge.glitch.me/badge?page_id=eticialima)
 <br><br>
 <a href="https://www.youtube.com/channel/UC8l8MDmyR8R5_j69txePZgg"><img align="center" src="https://github.com/eticialima/eticialima/blob/main/bg.jpg"/></a>
