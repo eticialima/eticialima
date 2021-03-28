@@ -47,17 +47,17 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
 <br><br> 
 <br><br>
 
-# GitHub Stats
+### 📊 Github Stats
  
 <a href="https://github.com/eticialima/eticialima">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Leticia Lima GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Leticia Lima GitHub Stats" />
 </a> 
 <a href="https://github.com/eticialima/eticialima">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=eticialima&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Leticia Lima GitHub Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=eticialima&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </a>
   
- ### 🧑‍💻 Skills
  
+### 🛠️ My Projects
  
  
  
