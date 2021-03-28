@@ -18,4 +18,13 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
 </p>
  
 ## Sobre mim
+
+<p>💻 Atualmente, estou trabalhando como analista de suporte TI</p>
+<p>🌱 Atualmente, estou aprendendo ReactJS</p>
+<p>👯 Estou usando Discord para bate-papo interativo.</p>
+<p>🤔 Estou procurando ajuda com mongoDB. </p>
+<p>💬 Pergunte-me sobre python e web develop.</p>
+<p>📫 Como me encontrar: instagram @eticialima</p>
+<p>😄 Acesse meu site, tem mais coisas legais lá.</p>
+<p>⚡ Curiosidade: uma vez eu tentei burlar as moedinhas no jogo lol. </p>
  
