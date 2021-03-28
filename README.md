@@ -21,7 +21,7 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
 </p>
  
 ## Sobre mim
-<a href="#"><img align="right" src="https://raw.githubusercontent.com/eticialima/eticialima/main/bg1.gif" width="200 " height="300" /></a>
+<a href="#"><img align="right" src="https://raw.githubusercontent.com/eticialima/eticialima/main/bg1.gif" width="400 " height="300" /></a>
 
 <p>💻 Atualmente, estou trabalhando como analista de suporte TI</p>
 <p>🌱 Atualmente, estou aprendendo ReactJS</p>
