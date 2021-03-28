@@ -47,15 +47,15 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
 # GitHub Stats
  
 <a href="https://github.com/eticialima/eticialima">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Leticia Lima GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Leticia Lima GitHub Stats" />
 </a> 
 <a href="https://github.com/eticialima/eticialima">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eticialima&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Leticia Lima GitHub Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=eticialima&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Leticia Lima GitHub Stats" />
 </a>
   
  ### 🧑‍💻 Skills
 
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
+[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eticialima&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/eticialima/github-readme-stats)
 
  
  
