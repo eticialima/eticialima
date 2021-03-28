@@ -58,6 +58,19 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
 <br><br>
 <br><br>
  
-<a  href="https://www.buymeacoffee.com/leticialima" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+ 
+ 
+ 
+ 
+ ### 🧑‍💻 Skills
+
+[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eticialima&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/eticialima/github-readme-stats)
+
+ 
+ 
+<br><br>
+<br><br>
+ 
+<a  href="https://www.buymeacoffee.com/leticialima" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
  
  
