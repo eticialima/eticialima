@@ -63,7 +63,33 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
  
  
 ### 🛠️ My Projects
- 
+# Contact Me :
+
+<p>
+ </br>
+
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+Para falar comigo tem que doar um café. (brincadeira eu nao gosto de café) 
+Me siga nas redes sociais e me mande uma mensagem que eu respondo. tmj. 😉.
+
+<a href="mailto:leticialimacgi@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src=" " />
+</a>
+<a href="https://www.linkedin.com/in/leticiarenata/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src=" " />
+</br>
+</br>
+</br>
+</a>
+<a href="https://www.instagram.com/eticialima">
+  <img align="left" alt=" Reddit" width="130" hight="100" src=" " />
+</a>
+<a href="https://steamcommunity.com/profiles/damadecopas/">
+  <img align="left" alt="Steam" width="130" hight="100" src=" " />
+</a>
+ </p> 
  
  
  
