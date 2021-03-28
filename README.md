@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/channel/UC8l8MDmyR8R5_j69txePZgg"><img align="center" src="https://github.com/eticialima/eticialima/blob/main/bg.jpg"/></a>
 
-### Hi there 👋 I'm Dhanraj
+### Olá 👋 Eu sou Leticia Lima.
 
 [![Instagram Badge](https://img.shields.io/badge/-codingpotter-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/codingpotter/)](https://instagram.com/codingpotter)
 [![Linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanrajdc7/)](https://www.linkedin.com/in/dhanrajdc7/)
@@ -21,8 +21,7 @@ Self Starter & Quick Learner, Passionate about Coding & Technology as well as sh
 - 🔭 Open Source Enthusiastic
 
 
-## MY GIT STATS
-![Dhanraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanrajdc7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+## MY GIT STATS 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanrajdc7&hide=TeX&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 # Latest YouTube Videos
