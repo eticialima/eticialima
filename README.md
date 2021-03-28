@@ -8,7 +8,7 @@
 Uma estudante e apaixonada por desenvolver em python e web designer. Profissional da computação e freelance. Minha paixão é criar idéias e torná-las realidade com interfaces elegantes. Procuro inspiração no mundo tecnológico que me rodeia. Fique a vontade para conhecer meus projetos.
  
 <h3>### Coisas com as quais eu programo...</h3>
-<p>
+<p> 
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" /> 
   <img alt="Python" src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" /> 
@@ -42,11 +42,13 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
 <p>😄 Acesse meu site, tem mais coisas legais lá.</p>
 <p>⚡ Curiosidade: uma vez eu tentei burlar as moedinhas no jogo lol. </p>
 <br><br>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=eticialima&show_icons=true&hide_border=true">
-</p>
-<br><br>
+
+### Spotify Playing 🎧
+
+[<img align="left" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) 
   
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=eticialima&show_icons=true&hide_border=true"> 
+<br><br> 
 <br><br>
 <p align="center">
 <a href="https://www.buymeacoffee.com/leticialima" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
