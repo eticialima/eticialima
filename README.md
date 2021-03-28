@@ -1,35 +1,41 @@
-<a href="https://www.youtube.com/codingpotter"><img align="center" src="https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/back.png"/></a>
+### Visitantes 
+![](https://visitor-badge.glitch.me/badge?page_id=eticialima)
+<br><br>
+<a href="https://www.youtube.com/channel/UC8l8MDmyR8R5_j69txePZgg"><img align="center" src="https://github.com/eticialima/eticialima/blob/main/bg.jpg"/></a>
+ 
+### Olá 👋 Eu sou Leticia Lima.
+ 
+Uma estudante e apaixonada por desenvolver em python e web designer. Profissional da computação e freelance. Minha paixão é criar idéias e torná-las realidade com interfaces elegantes. Procuro inspiração no mundo tecnológico que me rodeia. Fique a vontade para conhecer meus projetos.
+ 
+<h3>### Coisas com as quais eu programo...</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> 
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> 
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" /> 
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+ 
+## Sobre mim
 
-### Hi there 👋 I'm Dhanraj
-
-[![Instagram Badge](https://img.shields.io/badge/-codingpotter-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/codingpotter/)](https://instagram.com/codingpotter)
-[![Linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanrajdc7/)](https://www.linkedin.com/in/dhanrajdc7/)
-[![Youtube Badge](https://img.shields.io/badge/-codingpotter-red?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/codingpotter)](https://www.youtube.com/codingpotter)
-[![Twitter Badge](https://img.shields.io/badge/-codingpotter-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/codingpotter)](https://www.twitter.com/codingpotter)
-<a href="https://dhanrajdc7.github.io/myportfolio/"><img src="https://img.shields.io/badge/MyPortfolio-blueviolet.svg"/></a>
-<a href="https://dhanrajdc7.github.io/myresume/"><img src="https://img.shields.io/badge/MyResume-red.svg"/></a>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dhanrajdc7)
-
-
-## ABOUT ME
-Self Starter & Quick Learner, Passionate about Coding & Technology as well as shipping my ideas into apps, Encouraging others to code through Coding Blogs & my YouTube Channel.
-
-- 🎬 YouTuber @ [Coding Potter](https://www.youtube.com/codingpotter)
-- 🌟 Microsoft Learn Student Ambassador
-- ⚡️ Auth0 Ambassador
-- 👨🏻‍💻 Indie App Developer
-- 🔭 Open Source Enthusiastic
-
-
-## MY GIT STATS
-![Dhanraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanrajdc7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanrajdc7&hide=TeX&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-# Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [GitHub Skyline 🔥 #Shorts](https://www.youtube.com/watch?v=OmXFgCJxipI)
-- [Intro to Google Actions - Develop & Publish Your First Action on Google Assistant | 30 Oct 2020](https://www.youtube.com/watch?v=-6QIBfNoqsE)
-- [Intro to Cloud Computing & Microsoft Azure | Hosted By Dhanraj Chavan & Kshitij Sangar #MLSA](https://www.youtube.com/watch?v=avJshisyEJw)
-- [All About Git, GitHub & Open Source by Dhanraj Chavan & Abhishek Srivastava #MLSA #MSP](https://www.youtube.com/watch?v=FlsvjD4QEVI)
-- [Introductory Session of Team ACSES 🎉](https://www.youtube.com/watch?v=59G0G2A0ZQA)
-<!-- YOUTUBE:END -->
+<p>💻 Atualmente, estou trabalhando como analista de suporte TI</p>
+<p>🌱 Atualmente, estou aprendendo ReactJS</p>
+<p>👯 Estou usando Discord para bate-papo interativo.</p>
+<p>🤔 Estou procurando ajuda com mongoDB. </p>
+<p>💬 Pergunte-me sobre python e web develop.</p>
+<p>📫 Como me encontrar: instagram @eticialima</p>
+<p>😄 Acesse meu site, tem mais coisas legais lá.</p>
+<p>⚡ Curiosidade: uma vez eu tentei burlar as moedinhas no jogo lol. </p>
+<br><br>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=eticialima&show_icons=true&hide_border=true">
+</p>
+<br><br>
+<p align="center">
+<a href="https://www.buymeacoffee.com/leticialima" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+</p>
+ 
