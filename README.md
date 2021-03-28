@@ -61,10 +61,10 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
  
  
  
- 
+ <h3>### 🧑‍💻 Skills</h3>
  ### 🧑‍💻 Skills
 
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eticialima&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/eticialima/github-readme-stats)
+[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
 
  
  
