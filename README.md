@@ -30,6 +30,12 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
 <p>📫 Como me encontrar: instagram @eticialima</p>
 <p>😄 Acesse meu site, tem mais coisas legais lá.</p>
 <p>⚡ Curiosidade: uma vez eu tentei burlar as moedinhas no jogo lol. </p>
- 
- 
+<br><br>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=eticialima&show_icons=true&hide_border=true">
+</p>
+<br><br>
+<p align="center">
+<a href="https://www.buymeacoffee.com/leticialima" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+</p>
  
