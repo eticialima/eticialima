@@ -62,8 +62,8 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
   
  
  
-### 🛠️ My Projects
-# Contact Me :
+### 🛠️ Contato
+ 
 
 <p> 
 <img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/eticialima/eticialima/main/bg2.gif">
@@ -81,10 +81,10 @@ Me siga nas redes sociais e me mande uma mensagem que eu respondo. tmj. 😉.
 </br>
 </a>
 <a href="https://www.instagram.com/eticialima">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/eticialima/eticialima/blob/main/instagram.jpg" />
+  <img align="left" alt=" instagram" width="130" hight="100" src="https://github.com/eticialima/eticialima/blob/main/instagram.jpg" />
 </a>
-<a href="https://steamcommunity.com/profiles/damadecopas/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/eticialima/eticialima/blob/main/league.jpg" />
+<a href="https://lolprofile.net/pt/summoner/br/DamaDeCopas">
+  <img align="left" alt="lol" width="130" hight="100" src="https://github.com/eticialima/eticialima/blob/main/league.jpg" />
 </a>
  </p> 
  
