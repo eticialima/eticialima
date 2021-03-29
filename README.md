@@ -3,8 +3,7 @@
 <br>  
 <a href="https://www.youtube.com/channel/UC8l8MDmyR8R5_j69txePZgg"><img align="center" src="https://github.com/eticialima/eticialima/blob/main/bg.jpg"/></a>
  
-### Olá 👋 Eu sou Leticia Lima.<br><br> 
-
+### Olá 👋 Eu sou Leticia Lima.  
 Uma estudante e apaixonada por desenvolver em python e web designer. Profissional da computação e freelance. Minha paixão é criar idéias e torná-las realidade com interfaces elegantes. Procuro inspiração no mundo tecnológico que me rodeia. Fique a vontade para conhecer meus projetos.
 <br><br> 
 <h3>### Coisas com as quais eu programo...</h3> 
@@ -42,7 +41,7 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
   <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/> 
   <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
   <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
-</p>
+</p><br><br> 
 <!--https://github.com/Ileriayo/markdown-badges -->
  
 ## Sobre mim
