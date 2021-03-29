@@ -13,26 +13,37 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" /> 
   <img alt="Python" src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" /> 
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap" />   
+  <img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />    
   <img alt="Microsoft Sql Server" src="https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff" /> 
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-FFCA28?style=flat-square&logo=mysql&logoColor=ffffff" />  
+  <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" />  
   <img alt="VS Code" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff" /> 
   <img alt="Atom" src="http://img.shields.io/badge/-Sublime%20Text-FF9900?style=flat-square&logo=sublime-text&logoColor=ffffff" /> 
   <img alt="Windows" src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff" /> 
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" /> 
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt="Blender" src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 </p>
 
 <h3>### Coisas com as quais eu estou aprendendo...</h3>
 <p>  
+ <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />  
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" /> 
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
   <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" />  
+  <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
-
+<!--https://github.com/Ileriayo/markdown-badges -->
  
 ## Sobre mim
 <a href="#"><img align="right" src="https://raw.githubusercontent.com/eticialima/eticialima/main/bg1.gif" width="400 " height="200" /></a>
@@ -83,18 +94,14 @@ Me siga nas redes sociais e me mande uma mensagem que eu respondo. tmj. 😉.
 <a href="https://lolprofile.net/pt/summoner/br/DamaDeCopas">
   <img align="left" alt="lol" width="130" hight="100" src="https://github.com/eticialima/eticialima/blob/main/league.jpg" />
 </a>
- 
- 
- 
- 
-<br><br>
-<br><br>
+
+
 
 ###  buymeacoffee buymeacoffee
-<div>
+ 
 <a  href="https://www.buymeacoffee.com/leticialima" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
-</div>
-#
+ 
+
 
 
 
@@ -104,7 +111,9 @@ Me siga nas redes sociais e me mande uma mensagem que eu respondo. tmj. 😉.
 
 
 
-
+ 
+<br><br>
+<br><br>
 
 <div >
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
