@@ -95,9 +95,7 @@ Me siga nas redes sociais e me mande uma mensagem que eu respondo. tmj. 😉.
 
 
 
-
-<br><br> 
-<br><br><br><br> 
+ 
 <br><br><br><br> 
 <br><br><p>
 ###  buymeacoffee buymeacoffee
