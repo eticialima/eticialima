@@ -83,23 +83,23 @@ Me siga nas redes sociais e me mande uma mensagem que eu respondo. tmj. 😉.
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/eticialima/eticialima/blob/main/gmail.jpg" />
 </a>  
 <a href="https://www.linkedin.com/in/leticiarenata/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/eticialima/eticialima/blob/main/linkedin.jpg" /> 
-</a> 
+  <img align="left" alt="Linkedin" width="130" hight="100" src="https://github.com/eticialima/eticialima/blob/main/linkedin.jpg" /> 
+</a><br><br>  
 <a href="https://www.instagram.com/eticialima">
   <img align="left" alt=" instagram" width="130" hight="100" src="https://github.com/eticialima/eticialima/blob/main/instagram.jpg" />
 </a><br><br> 
 <a href="https://lolprofile.net/pt/summoner/br/DamaDeCopas">
   <img align="left" alt="lol" width="130" hight="100" src="https://github.com/eticialima/eticialima/blob/main/league.jpg" />
-</a><br><br> 
+</a>
+
+
+
+
+
+<br><br> 
 <br><br><br><br> 
 <br><br><br><br> 
-<br><br>
-
-
-
-
-
-<p>
+<br><br><p>
 ###  buymeacoffee buymeacoffee
  
 <a  href="https://www.buymeacoffee.com/leticialima" target="_blank"><img  src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
