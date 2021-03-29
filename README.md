@@ -69,7 +69,7 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
  </br>
 
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/eticialima/eticialima/main/bg2.gif">
 
 Para falar comigo tem que doar um café. (brincadeira eu nao gosto de café) 
 Me siga nas redes sociais e me mande uma mensagem que eu respondo. tmj. 😉.
