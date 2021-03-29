@@ -20,8 +20,7 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
-  <img alt="VS Code" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=github&logoColor=white" /> 
-  <img alt="Atom" src="http://img.shields.io/badge/-Sublime%20Text-FF9900?style=for-the-badge&logo=github&logoColor=white" /> 
+  <img alt="VS Code" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=github&logoColor=white" />  
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
@@ -98,17 +97,19 @@ Me siga nas redes sociais e me mande uma mensagem que eu respondo. tmj. 😉.
 
 
 
+
+
+
 ###  buymeacoffee buymeacoffee
  
-<a  href="https://www.buymeacoffee.com/leticialima" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+<a  href="https://www.buymeacoffee.com/leticialima" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
  
 
 
 
-
-<div align="center"> 
+ 
 ### Veja Mais... ❤️ Tem alguns repositorios aqui com link demo! 
-</div>
+ 
 
 
 
