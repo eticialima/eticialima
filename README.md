@@ -1,13 +1,14 @@
 ### Visitantes 
 ![](https://visitor-badge.glitch.me/badge?page_id=eticialima)
-<br><br>
+<br><br><br><br> 
+ 
 <a href="https://www.youtube.com/channel/UC8l8MDmyR8R5_j69txePZgg"><img align="center" src="https://github.com/eticialima/eticialima/blob/main/bg.jpg"/></a>
  
 ### Olá 👋 Eu sou Leticia Lima.
  
 Uma estudante e apaixonada por desenvolver em python e web designer. Profissional da computação e freelance. Minha paixão é criar idéias e torná-las realidade com interfaces elegantes. Procuro inspiração no mundo tecnológico que me rodeia. Fique a vontade para conhecer meus projetos.
  
-<h3>### Coisas com as quais eu programo...</h3>
+<h3>### Coisas com as quais eu programo...</h3><br><br> 
 <p> 
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -30,7 +31,7 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
   
 </p>
 
-<h3>### Coisas com as quais eu estou aprendendo...</h3>
+<h3>### Coisas com as quais eu estou aprendendo...</h3><br><br><br><br> 
 <p>  
  <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> 
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
