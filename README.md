@@ -89,6 +89,8 @@ Me siga nas redes sociais e me mande uma mensagem que eu respondo. tmj. 😉.
  
 <br><br>
 <br><br>
+
+###  buymeacoffee buymeacoffee
 <div>
 <a  href="https://www.buymeacoffee.com/leticialima" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 </div>
