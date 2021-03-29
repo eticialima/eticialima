@@ -64,8 +64,6 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
  
 ### 🛠️ Contato
  
-
-<p> 
 <img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/eticialima/eticialima/main/bg2.gif">
 
 Para falar comigo tem que doar um café. (brincadeira eu nao gosto de café) 
@@ -77,8 +75,7 @@ Me siga nas redes sociais e me mande uma mensagem que eu respondo. tmj. 😉.
 <a href="https://www.linkedin.com/in/leticiarenata/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/eticialima/eticialima/blob/main/linkedin.jpg" />
 </br>
-</br>
-</br>
+</br> 
 </a>
 <a href="https://www.instagram.com/eticialima">
   <img align="left" alt=" instagram" width="130" hight="100" src="https://github.com/eticialima/eticialima/blob/main/instagram.jpg" />
@@ -86,22 +83,27 @@ Me siga nas redes sociais e me mande uma mensagem que eu respondo. tmj. 😉.
 <a href="https://lolprofile.net/pt/summoner/br/DamaDeCopas">
   <img align="left" alt="lol" width="130" hight="100" src="https://github.com/eticialima/eticialima/blob/main/league.jpg" />
 </a>
- </p> 
+ 
  
  
  
 <br><br>
 <br><br>
 <div>
-<a  href="https://www.buymeacoffee.com/leticialima" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+<a  href="https://www.buymeacoffee.com/leticialima" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 </div>
 #
 
-<div align="center">
 
-### Veja Mais... ❤️ Tem alguns repositorios aqui com link demo!
 
+<div align="center"> 
+### Veja Mais... ❤️ Tem alguns repositorios aqui com link demo! 
 </div>
+
+
+
+
+
 <div >
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
