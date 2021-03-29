@@ -87,10 +87,10 @@ Me siga nas redes sociais e me mande uma mensagem que eu respondo. tmj. 😉.
 </a><br><br>  
 <a href="https://www.instagram.com/eticialima">
   <img align="left" alt=" instagram" width="130" hight="100" src="https://github.com/eticialima/eticialima/blob/main/instagram.jpg" />
-</a><br><br> 
+</a> 
 <a href="https://lolprofile.net/pt/summoner/br/DamaDeCopas">
   <img align="left" alt="lol" width="130" hight="100" src="https://github.com/eticialima/eticialima/blob/main/league.jpg" />
-</a>
+</a><br><br> 
 
 
 
