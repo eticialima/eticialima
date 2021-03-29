@@ -68,7 +68,7 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
 </a> 
 <a href="https://github.com/eticialima/eticialima">
   <img height="137px" align="right" src="https://github-readme-stats.vercel.app/api?username=eticialima&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-</a>
+</a><br><br> 
   
  
  
@@ -81,11 +81,9 @@ Me siga nas redes sociais e me mande uma mensagem que eu respondo. tmj. 😉.
 
 <a href="mailto:leticialimacgi@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/eticialima/eticialima/blob/main/gmail.jpg" />
-</a>
+</a> 
 <a href="https://www.linkedin.com/in/leticiarenata/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/eticialima/eticialima/blob/main/linkedin.jpg" />
-</br>
-</br> 
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/eticialima/eticialima/blob/main/linkedin.jpg" /> 
 </a>
 <a href="https://www.instagram.com/eticialima">
   <img align="left" alt=" instagram" width="130" hight="100" src="https://github.com/eticialima/eticialima/blob/main/instagram.jpg" />
@@ -150,6 +148,8 @@ Me siga nas redes sociais e me mande uma mensagem que eu respondo. tmj. 😉.
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
 </div>
  
  
