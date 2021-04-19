@@ -3,10 +3,10 @@
 <br>  
 <!-- <a href="https://www.youtube.com/channel/UC8l8MDmyR8R5_j69txePZgg"><img align="center" src="https://github.com/eticialima/eticialima/blob/main/bg.jpg"/></a> -->
  
-### Olá 👋 Eu sou Leticia Lima.  
-Uma estudante e apaixonada por desenvolver em python e web designer. Profissional da computação e freelance. Minha paixão é criar idéias e torná-las realidade com interfaces elegantes. Procuro inspiração no mundo tecnológico que me rodeia. Fique a vontade para conhecer meus projetos.
+### Hello 👋 I'm Leticia Lima.  
+A student and passionate about developing in python and web designer. Computer professional and freelance. My passion is to create ideas and make them come true with elegant interfaces. I look for inspiration in the technological world that surrounds me. Feel free to get to know my projects.
 <br><br> 
-<h3>### Coisas com as quais eu programo...</h3> 
+<h3>### Things I program with ...</h3> 
 <p> 
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -27,7 +27,7 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
   
 </p><br><br> 
 
-<h3>### Coisas com as quais eu estou aprendendo...</h3> 
+<h3>### Things I'm learning from ...</h3> 
 <p>  
  <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> 
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
@@ -43,19 +43,19 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
 ## Sobre mim
 <a href="#"><img align="right" src="https://raw.githubusercontent.com/eticialima/eticialima/main/bg1.gif" width="400 " height="200" /></a>
 
-<p>💻 Atualmente, estou trabalhando como analista de suporte TI</p>
-<p>🌱 Atualmente, estou aprendendo ReactJS</p>
-<p>👯 Estou usando Discord para bate-papo interativo.</p>
-<p>🤔 Estou procurando ajuda com mongoDB. </p>
-<p>💬 Pergunte-me sobre qualquer coisa relacionada à tecnologia</p>
-<p>📫 Como me encontrar: instagram @eticialima</p> 
-<p>👨🏻‍💻 A maioria dos meus projetos estão disponíveis no Github </p>  
-<p>📝 Confira meu currículo</p> 
-<p>📚 Quando estou livre, eu jogo, assisto filme, escrevo cenas e edito videos.</p> 
-<p>😄 Acesse meu site, tem mais coisas legais lá.</p>
-<p>⚡ Curiosidade: uma vez eu tentei burlar as moedinhas no jogo lol. </p>
-<br><br> 
-<br><br>
+<p> 💻 I am currently working as an IT support analyst </p>
+<p> 🌱 I am currently learning ReactJS </p>
+<p> 👯 I'm using Discord for interactive chat. </p>
+<p> 🤔 I'm looking for help with mongoDB. </p>
+<p> 💬 Ask me about anything related to technology </p>
+<p> 📫 How to find me: instagram @eticialima </p>
+<p> 👨🏻‍💻 Most of my projects are available on Github </p>
+<p> 📝 Check my resume </p>
+<p> 📚 When I'm free, I play games, watch movies, write scenes and edit videos. </p>
+<p> 😄 Visit my website, there are more cool things there. </p>
+<p> ⚡ Curiosity: I once tried to circumvent the pennies in the game lol. </p>
+<br> <br>
+<br> <br>
 
 ### 📊 Github Stats
  
@@ -72,8 +72,8 @@ Uma estudante e apaixonada por desenvolver em python e web designer. Profissiona
  
 <img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/eticialima/eticialima/main/bg2.gif">
 
-Para falar comigo tem que doar um café. (brincadeira eu nao gosto de café) 
-Me siga nas redes sociais e me mande uma mensagem que eu respondo. tmj. 😉.
+To talk to me you have to donate a coffee. (joke I don't like coffee)
+Follow me on social media and send me a message and I'll reply. tmj. 😉.
 
 <a href="mailto:leticialimacgi@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/eticialima/eticialima/blob/main/gmail.jpg" />
@@ -104,7 +104,7 @@ Me siga nas redes sociais e me mande uma mensagem que eu respondo. tmj. 😉.
 
 
  
-### Veja Mais... ❤️ Tem alguns repositorios aqui com link demo! 
+### See More ... ❤️ There are some repositories here with a demo link!
  
 
 
