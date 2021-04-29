@@ -57,12 +57,7 @@ Uma estudante e apaixonada por desenvolver em python e Web. Profissional da comp
 <br><br> 
 <br><br>
 
-### 📊 Github Stats
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-Use [show_owner](#customization) variable to include the repo's owner username
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Github Stats  
  
 <a href="https://github.com/eticialima/">
   <img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Leticia Lima GitHub Stats" />
