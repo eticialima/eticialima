@@ -44,7 +44,7 @@ Uma estudante e apaixonada por desenvolver em python e Web. Profissional da comp
 <p>💻 Atualmente, estou trabalhando como analista de suporte TI</p>
 <p>🌱 Atualmente, estou aprendendo Django</p>
 <p>👯 Estou usando Discord para bate-papo interativo.</p>
-<p>🤔 Estou procurando ajuda com mongoDB. </p>
+<p>🤔 Estou procurando ajuda com Angular. </p>
 <p>💬 Pergunte-me sobre qualquer coisa relacionada à tecnologia</p>
 <p>📫 Como me encontrar: instagram @eticialima</p> 
 <p>👨🏻‍💻 A maioria dos meus projetos estão disponíveis no Github </p>  
