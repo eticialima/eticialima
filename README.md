@@ -42,7 +42,7 @@ Uma estudante e apaixonada por desenvolver em python e Web. Profissional da comp
 <a href="#"><img align="right" src="https://raw.githubusercontent.com/eticialima/eticialima/main/bg1.gif" width="400 " height="200" /></a>
 
 <p>💻 Atualmente, estou trabalhando como analista de suporte TI</p>
-<p>🌱 Atualmente, estou aprendendo ReactJS</p>
+<p>🌱 Atualmente, estou aprendendo Django</p>
 <p>👯 Estou usando Discord para bate-papo interativo.</p>
 <p>🤔 Estou procurando ajuda com mongoDB. </p>
 <p>💬 Pergunte-me sobre qualquer coisa relacionada à tecnologia</p>
