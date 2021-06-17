@@ -45,7 +45,7 @@ https://github.com/Ileriayo/markdown-badges -->
 <p>👯 I'm using Discord for interactive chat.</p>
 <p>🤔 I'm looking for help with Angular. </p>
 <p>💬 Ask me about anything related to technology</p>
-<p>📫 How to find me: instagram @ecialima</p>
+<p>📫 How to find me: instagram @eticialima</p>
 <p>👨🏻‍💻 Most of my projects are available on Github </p>
 <p>📝 Check my resume</p>
 <p>📚 When I'm free, I play games, watch movies, write scenes and edit videos.</p>
