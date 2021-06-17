@@ -37,7 +37,7 @@ A student and passionate about developing in python and web. Outreach and freela
 <!--Do you want to use the icons I used here?
 https://github.com/Ileriayo/markdown-badges -->
  
-## Sobre mim
+## About me
 <a href="#"><img align="right" src="https://raw.githubusercontent.com/eticialima/eticialima/main/bg1.gif" width="400 " height="200" /></a>
 
 <p>💻 I am currently working as an IT Support Analyst</p>
@@ -84,6 +84,7 @@ Follow me on social media and send me a message and I'll reply. tmj. 😉.
 </a><br><br>  
 <br><br><br><br> 
 <br><br><p>
+ 
 ###  buymeacoffee buymeacoffee
  
 <a  href="https://www.buymeacoffee.com/leticialima" target="_blank"><img  src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
