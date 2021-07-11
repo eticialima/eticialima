@@ -1,8 +1,3 @@
-### Visitantes
-
-![](https://visitor-badge.glitch.me/badge?page_id=eticialima)
-<br>
-
 ### Hi 👋 I'm Leticia Lima.
 
 A student and passionate about developing in python and web. Outreach and freelance professional. My passion is to create ideas and make them a reality with elegant interfaces. I look for inspiration in the technological world that surrounds me. Feel free to know my projects.
@@ -46,3 +41,8 @@ A student and passionate about developing in python and web. Outreach and freela
 <br> 
 ### See More... ❤️ There are some repositories here with demo link! 
 <br>
+
+### Visitantes 
+![](https://visitor-badge.glitch.me/badge?page_id=eticialima)
+<br>
+
