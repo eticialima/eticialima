@@ -29,13 +29,15 @@ A student and passionate about developing in python and web. Outreach and freela
 </p> 
  
 ### 📊 Github Stats  
-<p> 
-<a href="https://github.com/eticialima/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Leticia Lima GitHub Stats" />
-</a> 
-<a href="https://github.com/eticialima/">
-  <img align="right" height="140px" src="https://github-readme-stats.vercel.app/api?username=eticialima&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-</a></p>
+
+ <a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=eticialima-26&show_icons=true&count_private=true&theme=dark" height="175">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima-26&layout=compact&theme=dark&hide=css,html" height = "175">
+   <br>
+   <br>
+  <img src="https://komarev.com/ghpvc/?username=eticialima-26&color=green&label=+Developers+Inspired"/>
+</a>
+ 
 
 ### 🛠️ I play
 
