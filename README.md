@@ -26,28 +26,19 @@ A student and passionate about developing in python and web. Outreach and freela
 </p><br><br> 
  
 ### 📊 Github Stats  
- 
+<p> 
 <a href="https://github.com/eticialima/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Leticia Lima GitHub Stats" />
 </a> 
 <a href="https://github.com/eticialima/">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=eticialima&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-</a><br><br><br><br>  
+</a></p> 
 
 ### 🛠️ Contact
   
 To talk to me, you have to donate a coffee. (joking, I don't like coffee)
 Follow me on social media and send me a message and I'll reply. tmj. 😉.
-
-<a href="mailto:leticialimacgi@gmail.com">
- <img alt="Gmail" width="130" hight="100" src="https://github.com/eticialima/eticialima/blob/main/gmail.jpg" />
-</a>  
-<a href="https://www.linkedin.com/in/leticiarenata/">
-  <img  alt="Linkedin" width="130" hight="100" src="https://github.com/eticialima/eticialima/blob/main/linkedin.jpg" /> 
-</a><br><br>  
-<a href="https://www.instagram.com/eticialima">
-  <img alt=" instagram" width="130" hight="100" src="https://github.com/eticialima/eticialima/blob/main/instagram.jpg" />
-</a> 
+ 
 <a href="https://lolprofile.net/pt/summoner/br/DamaDeCopas">
   <img alt="lol" width="130" hight="100" src="https://github.com/eticialima/eticialima/blob/main/league.jpg" />
 </a><br><br> 
