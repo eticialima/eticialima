@@ -38,9 +38,9 @@ A student and passionate about developing in python and web. Outreach and freela
 <a  href="https://www.buymeacoffee.com/leticialima" target="_blank"><img  src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 <p>To talk to me, you have to donate a coffee. (joking, I don't like coffee)</p> 
 <p>Follow me on social media and send me a message and I'll reply. tmj. 😉.</p> 
-<br> 
+  
 ### See More... ❤️ There are some repositories here with demo link! 
-<br>
+ 
 
 ### Visitantes 
 ![](https://visitor-badge.glitch.me/badge?page_id=eticialima)
