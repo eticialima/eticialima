@@ -32,22 +32,14 @@ A student and passionate about developing in python and web. Outreach and freela
 
  <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=eticialima&show_icons=true&count_private=true&theme=dark" height="175">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&layout=compact&theme=dark&hide=css,html" height = "175">
-   <br>
-   <br>
-  <img src="https://komarev.com/ghpvc/?username=eticialima-26&color=green&label=+Developers+Inspired"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&layout=compact&theme=dark&hide=css,html" height = "175"> 
 </a>
- 
-
-### 🛠️ I play
-
-To talk to me, you have to donate a coffee. (joking, I don't like coffee)
-Follow me on social media and send me a message and I'll reply. tmj. 😉.
-
+  
 ### buymeacoffee buymeacoffee
 
 <a  href="https://www.buymeacoffee.com/leticialima" target="_blank"><img  src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
-
+To talk to me, you have to donate a coffee. (joking, I don't like coffee)
+Follow me on social media and send me a message and I'll reply. tmj. 😉.
 </p><br><br>  
 ### See More... ❤️ There are some repositories here with demo link! 
 <br><br>
