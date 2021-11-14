@@ -29,8 +29,8 @@ A student and passionate about developing in python and web. Outreach and freela
 ### Github Stats
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=eticialima&show_icons=true&count_private=true&theme=dark" height="175">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&layout=compact&theme=dark&hide=css,html" height = "175"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=eticialima&show_icons=true&count_private=true&theme=dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&layout=compact&theme=dark&hide=css,html" height = "165"> 
 </a>
   
 ### buymeacoffee buymeacoffee
