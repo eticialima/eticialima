@@ -6,10 +6,9 @@ A student and passionate about developing in python and web. Outreach and freela
 ### Contact
 
 <p>  
-  <a href="https://www.instagram.com/eticialima/" target="_blank" ><img alt="Discord" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.behance.net/eticialima"target="_blank"><img alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
-  <a href="https://dev.to/eticialima"target="_blank"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a> 
   <a href="https://leticialima.vercel.app"target="_blank"><img src="https://img.shields.io/badge/Portfolio-00BB00?style=for-the-badge"/></a>
+  <a href="https://dev.to/eticialima"target="_blank"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>   <a href="https://www.behance.net/eticialima"target="_blank"><img alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="https://www.instagram.com/eticialima/" target="_blank" ><img alt="Discord" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
 </p>
 
 ### Stacks
