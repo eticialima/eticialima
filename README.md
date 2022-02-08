@@ -32,6 +32,8 @@ A student and passionate about developing in python and web. Outreach and freela
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&layout=compact&theme=moltack&hide=css,html" height = "165"> 
 </a>
 
+### Coffee
+
 <a href="https://www.buymeacoffee.com/leticialima" target="_blank">
  <img  src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
 </a> 
