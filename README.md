@@ -45,7 +45,9 @@ A student and passionate about developing in python and web. Outreach and freela
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
   <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/> 
 </p> 
- 
+
+  <a href="https://djangoprojects.up.railway.app/">GET PROJECTS</a>
+
 ### Github Stats
 
 <a href="#">
