@@ -52,14 +52,6 @@ A student and passionate about developing in python and web. Outreach and freela
   <img src="https://github-readme-stats.vercel.app/api?username=eticialima&show_icons=true&count_private=true&theme=moltack" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&layout=compact&theme=moltack&hide=css,html" height = "165"> 
 </a>
-
-### Coffee
-
-<a href="https://www.buymeacoffee.com/leticialima" target="_blank">
- <img  src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
-</a> 
-<p>To talk to me, you have to donate a coffee. (joking, I don't like coffee)</p>   
-   
    
 ### Visitantes 
 ![](https://visitor-badge.glitch.me/badge?page_id=eticialima)
