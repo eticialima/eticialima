@@ -46,8 +46,6 @@ A student and passionate about developing in python and web. Outreach and freela
   <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/> 
 </p> 
 
-[GET PROJECTS](https://leticia.up.railway.app/projects/)
-
 ### Github Stats
 
 <a href="#">
