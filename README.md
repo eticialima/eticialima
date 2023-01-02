@@ -8,8 +8,8 @@ A student and passionate about developing in python and web. Outreach and freela
 
 ### Contact
 
-<p>  
-  <a href="https://leticia.up.railway.app" target="_blank">
+<p> 
+  <a href="https://leticialima.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00BB00?style=for-the-badge"/>
   </a> 
   <a href="https://www.youtube.com/channel/UCyPwE2HDDO_GCLzQHuXVH-g" target="_blank">
