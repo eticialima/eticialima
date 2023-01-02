@@ -3,7 +3,12 @@
 
 ### Hi 👋 I'm Leticia Lima.
 
-A student and passionate about developing in python and web. Outreach and freelance professional. My passion is to create ideas and make them a reality with elegant interfaces. I look for inspiration in the technological world that surrounds me. Feel free to know my projects.
+<p>Hey! My name is Letícia Lima, currently I work with systems development with Python and Django Framework. In my spare time I work as a freelancer on Web Development projects.</p> 
+
+<p>I have a degree in Computer Engineering with a focus on programming and systems, I have a broad and solid view of tools and concepts. I have experience in Python, Django and Angular, programming different types of web applications.</p>
+
+<p>Feel free to discover my projects.</p>
+  
 <br>
 
 ### Contact
