@@ -9,16 +9,16 @@ A student and passionate about developing in python and web. Outreach and freela
 ### Contact
 
 <p>  
-  <a href="https://leticia.up.railway.app"target="_blank">
+  <a href="https://leticia.up.railway.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00BB00?style=for-the-badge"/>
   </a> 
-  <a href="https://www.youtube.com/channel/UCyPwE2HDDO_GCLzQHuXVH-g"target="_blank">
+  <a href="https://www.youtube.com/channel/UCyPwE2HDDO_GCLzQHuXVH-g" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://dev.to/eticialima"target="_blank">
+  <a href="https://dev.to/eticialima" target="_blank">
     <img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>   
-  <a href="https://www.behance.net/eticialima"target="_blank">
+  <a href="https://www.behance.net/eticialima" target="_blank">
     <img alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/eticialima/" target="_blank" >
