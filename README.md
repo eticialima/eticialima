@@ -51,11 +51,11 @@
   <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/> 
 </p> 
 
-### Github Stats
-
+### Github Stats 
+  
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=eticialima&show_icons=true&count_private=true&theme=moltack" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&layout=compact&theme=moltack&hide=css,html" height = "165"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=eticialima&theme=transparent&show_icons=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&layout=compact&theme=transparent&show_icons=true&hide=css,html" height = "165"> 
 </a>
    
 ### Visitantes 
