@@ -8,10 +8,10 @@ Dá uma olhada nos meus projetos aqui no GitHub 🙂
 
 ### Contato
 
-[![site.leticialima](https://img.shields.io/badge/site.leticialima-00BB00?style=for-the-badge)](https://leticialima.vercel.app/)
+[![site.leticialima](https://img.shields.io/badge/Portfolio-00BB00?style=for-the-badge)](https://leticialima.vercel.app/)
 [![youtube.com/@opencodigo](https://img.shields.io/badge/@opencodigo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyPwE2HDDO_GCLzQHuXVH-g)
 [![dev.to/eticialima](https://img.shields.io/badge/dev.to/eticialima-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/eticialima)
-[![behance.net/eticialima](https://img.shields.io/badge/behance.net/eticialima-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/eticialima)
+[![behance.net/eticialima](https://img.shields.io/badge/behance/eticialima-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/eticialima)
 [![@eticialima](https://img.shields.io/badge/@eticialima-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eticialima/)
 
 ### Stacks      
