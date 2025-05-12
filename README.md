@@ -1,64 +1,63 @@
+### Oi 👋 Eu sou a Letícia Lima
 
-<div  align="center">
+Sou desenvolvedora e trabalho principalmente com Python e o framework Django. No tempo livre também faço freelas com desenvolvimento web.
 
-### Hi 👋 I'm Leticia Lima.
+Me formei em Engenharia da Computação com foco em programação e sistemas. Tenho experiência com Python, Django, Django REST, Angular e TypeScript.
 
-<p>Hey! My name is Letícia Lima, currently I work with systems development with Python and Django Framework. In my spare time I work as a freelancer on Web Development projects.</p> 
+Dá uma olhada nos meus projetos aqui no GitHub 🙂  
 
-<p>I have a degree in Computer Engineering with a focus on programming and systems, I have a broad and solid view of tools and concepts. I have experience in Python, Django and Angular, programming different types of web applications.</p>
+### Contato
 
-<p>Feel free to discover my projects.</p>
-  
-<br>
+[![site.leticialima](https://img.shields.io/badge/site.leticialima-00BB00?style=for-the-badge)](https://leticialima.vercel.app/)
+[![youtube.com/@opencodigo](https://img.shields.io/badge/@opencodigo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyPwE2HDDO_GCLzQHuXVH-g)
+[![dev.to/eticialima](https://img.shields.io/badge/dev.to/eticialima-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/eticialima)
+[![behance.net/eticialima](https://img.shields.io/badge/behance.net/eticialima-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/eticialima)
+[![@eticialima](https://img.shields.io/badge/@eticialima-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eticialima/)
 
-### Contact
-
-<p> 
-  <a href="https://leticialima.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00BB00?style=for-the-badge"/>
-  </a> 
-  <a href="https://www.youtube.com/channel/UCyPwE2HDDO_GCLzQHuXVH-g" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://dev.to/eticialima" target="_blank">
-    <img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-  </a>   
-  <a href="https://www.behance.net/eticialima" target="_blank">
-    <img alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/eticialima/" target="_blank" >
-    <img alt="Discord" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a> 
+### Stacks      
+<p>
+<img width="500px"  src="https://skillicons.dev/icons?i=py,django,angular,typescript,jquery,postgres,docker,git,vscode&perline=10"  />
 </p>
 
-### Stacks
+### GitHub Stats
 
-<p> 
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> 
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
-  <img alt="Django-Rest" src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white"/> 
-  <img alt="fastapi" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/> 
-  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> 
-  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> 
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> 
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
-</p> 
-
-### Github Stats 
-  
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=eticialima&theme=transparent&show_icons=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&layout=compact&theme=transparent&show_icons=true&hide=css,html" height = "165"> 
-</a>
-   
-### Visitantes 
-![](https://visitor-badge.glitch.me/badge?page_id=eticialima)
-<br>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=eticialima&theme=dark&show_icons=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&layout=compact&theme=dark&show_icons=true&hide=css,html" height="165">
+</a>  
+
+---
+
+<details>
+<summary><strong>🇺🇸 en</strong></summary>
+
+### Hi 👋 I'm Letícia Lima
+
+I'm a developer working mainly with Python and the Django framework. On the side, I also freelance with web development projects.
+
+I have a degree in Computer Engineering focused on programming and systems. I have experience with Python, Django, Django REST, Angular, and TypeScript.
+
+Feel free to explore my projects here on GitHub 🙂  
+
+### Contato
+
+[![site.leticialima](https://img.shields.io/badge/site.leticialima-00BB00?style=for-the-badge)](https://leticialima.vercel.app/)
+[![youtube.com/@opencodigo](https://img.shields.io/badge/@opencodigo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyPwE2HDDO_GCLzQHuXVH-g)
+[![dev.to/eticialima](https://img.shields.io/badge/dev.to/eticialima-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/eticialima)
+[![behance.net/eticialima](https://img.shields.io/badge/behance.net/eticialima-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/eticialima)
+[![@eticialima](https://img.shields.io/badge/@eticialima-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eticialima/)
+
+### Stacks      
+<p>
+<img width="500px"  src="https://skillicons.dev/icons?i=py,django,angular,typescript,jquery,postgres,docker,git,vscode&perline=10"  />
+</p>
+
+### GitHub Stats
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=eticialima&theme=dark&show_icons=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&layout=compact&theme=dark&show_icons=true&hide=css,html" height="165">
+</a>  
+
+
+</details>
