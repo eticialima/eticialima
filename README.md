@@ -1,63 +1,57 @@
-### Oi 👋 Eu sou a Letícia Lima
+# 👋 Oi, eu sou a Letícia Lima
 
-Sou desenvolvedora e trabalho principalmente com Python e o framework Django. No tempo livre também faço freelas com desenvolvimento web.
+Backend & Frontend Developer  
+Django • Angular • Docker • Kubernetes
+ 
+## 💻 Sobre mim
 
-Me formei em Engenharia da Computação com foco em programação e sistemas. Tenho experiência com Python, Django, Django REST, Angular e TypeScript.
+Apaixonada por desenvolvimento web, automações e arquitetura de sistemas.
 
-Dá uma olhada nos meus projetos aqui no GitHub 🙂  
+Construindo aplicações com Django + Angular, APIs, containers Docker e infraestrutura moderna.
 
-### Contato
+## 🧠 Atualmente estudando
 
-[![site.leticialima](https://img.shields.io/badge/Portfolio-00BB00?style=for-the-badge)](https://leticialima.vercel.app/)
-[![youtube.com/@opencodigo](https://img.shields.io/badge/@opencodigo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyPwE2HDDO_GCLzQHuXVH-g)
-[![dev.to/eticialima](https://img.shields.io/badge/dev.to/eticialima-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/eticialima)
-[![behance.net/eticialima](https://img.shields.io/badge/behance/eticialima-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/eticialima)
-[![@eticialima](https://img.shields.io/badge/@eticialima-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eticialima/)
+- Kubernetes
+- Arquitetura de Microsserviços
+- DevOps
+- AWS
+- Escalabilidade com Docker
 
-### Stacks      
+## Contato
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00BB00?style=for-the-badge)](https://leticialima.vercel.app/)
+[![YouTube](https://img.shields.io/badge/@opencodigo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyPwE2HDDO_GCLzQHuXVH-g)
+[![Dev.to](https://img.shields.io/badge/dev.to/eticialima-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/eticialima)
+[![Behance](https://img.shields.io/badge/behance/eticialima-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/eticialima)
+[![Instagram](https://img.shields.io/badge/@eticialima-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eticialima/)
+
+## Stacks
+
 <p>
-<img width="500px"  src="https://skillicons.dev/icons?i=py,django,angular,typescript,jquery,postgres,docker,git,vscode&perline=10"  />
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,angular,typescript,javascript,html,css,sass,jquery,postgres,mysql,docker,kubernetes,linux,nginx,jenkins,git,github,githubactions,aws,bash,vscode&perline=9" />
 </p>
 
-### GitHub Stats
+## GitHub Stats
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=eticialima&theme=dark&show_icons=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&layout=compact&theme=dark&show_icons=true&hide=css,html" height="165">
-</a>  
-
----
-
-<details>
-<summary><strong>🇺🇸 en</strong></summary>
-
-### Hi 👋 I'm Letícia Lima
-
-I'm a developer working mainly with Python and the Django framework. On the side, I also freelance with web development projects.
-
-I have a degree in Computer Engineering focused on programming and systems. I have experience with Python, Django, Django REST, Angular, and TypeScript.
-
-Feel free to explore my projects here on GitHub 🙂  
-
-### Contato
-
-[![site.leticialima](https://img.shields.io/badge/Portfolio-00BB00?style=for-the-badge)](https://leticialima.vercel.app/)
-[![youtube.com/@opencodigo](https://img.shields.io/badge/@opencodigo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyPwE2HDDO_GCLzQHuXVH-g)
-[![dev.to/eticialima](https://img.shields.io/badge/dev.to/eticialima-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/eticialima)
-[![behance.net/eticialima](https://img.shields.io/badge/behance/eticialima-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/eticialima)
-[![@eticialima](https://img.shields.io/badge/@eticialima-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eticialima/)
-
-### Stacks      
 <p>
-<img width="500px"  src="https://skillicons.dev/icons?i=py,django,angular,typescript,jquery,postgres,docker,git,vscode&perline=10"  />
+  <img 
+    height="170" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=eticialima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+  />
+
+  <img 
+    height="170" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eticialima&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" 
+  />
 </p>
 
-### GitHub Stats
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=eticialima&theme=dark&show_icons=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eticialima&layout=compact&theme=dark&show_icons=true&hide=css,html" height="165">
-</a>  
+## GitHub Streak
+
+<p>
+  <img 
+    src="https://streak-stats.demolab.com?user=eticialima&theme=tokyonight&border_radius=8" 
+  />
+</p>
 
 
-</details>
