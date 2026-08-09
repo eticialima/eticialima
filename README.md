@@ -1,21 +1,21 @@
-#### Sobre mim
+#### About Me
 
-Apaixonada por desenvolvimento web, automações e arquitetura de sistemas.
+Passionate about web development, automation, and systems architecture.
 
-Construindo aplicações com Django + Angular, APIs, containers Docker e infraestrutura moderna.
+Building applications with Django + Angular, APIs, Docker containers, and modern infrastructure.
 
-#### Atualmente estudando
+#### Currently Learning
 
 - Kubernetes
-- Arquitetura de Microsserviços
+- Microservices Architecture
 - DevOps
 - AWS
-- Escalabilidade com Docker
+- Scaling with Docker
 
-#### Contato
+#### Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00BB00?style=for-the-badge)](https://leticialima.vercel.app/)
-[![YouTube](https://img.shields.io/badge/@opencodigo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyPwE2HDDO_GCLzQHuXVH-g)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00BB00?style=for-the-badge)](https://leticia.dev/)
+[![YouTube](https://img.shields.io/badge/@leticiadev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@leticiadev)
 [![Dev.to](https://img.shields.io/badge/dev.to/eticialima-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/eticialima)
 [![Behance](https://img.shields.io/badge/behance/eticialima-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/eticialima)
 [![Instagram](https://img.shields.io/badge/@eticialima-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eticialima/)
