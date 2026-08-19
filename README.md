@@ -23,7 +23,7 @@ Building applications with Django + Angular, APIs, Docker containers, and modern
 #### Stacks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,angular,typescript,javascript,html,css,sass,jquery,postgres,mysql,docker,kubernetes,linux,nginx,jenkins,git,github,githubactions,aws,bash,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,angular,typescript,javascript,html,css,sass,jquery,postgres,mysql,docker,kubernetes,linux,nginx,jenkins,git,github,aws,bash,vscode&theme=light&perline=9" />
 </p>
 
 <!--
